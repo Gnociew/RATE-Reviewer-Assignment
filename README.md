@@ -1,6 +1,6 @@
 # RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems
 
-This repository contains the reproduction scripts and documentation for the RATE experiment, utilizing a **Qwen3-Embedding-8B** base model with a specialized LoRA adapter.
+This repository contains the reproduction scripts and documentation for the RATE experiment.
 
 ## 📁 Project Structure
 
@@ -38,9 +38,14 @@ pip install -r requirements.txt
 We provide a `main.py` script that orchestrates the reproduction process. It uses `scripts/RATE.py` for inference and `evaluation_script.py` for metrics calculation.
 
 
-**Option 1: Run with Config File **
+** Option 1: Run with Config File **
 
 We have prepared a configuration file for one-click execution.
+
+### Model Checkpoints
+We will provide two model checkpoints on Hugging Face:
+- **RATE-0.6B**: [Hugging Face Link](https://huggingface.co/) (Coming Soon)
+- **RATE-8B**: [Hugging Face Link](https://huggingface.co/) (Coming Soon)
 
 ```bash
 python main.py --config configs/example_config.yaml
