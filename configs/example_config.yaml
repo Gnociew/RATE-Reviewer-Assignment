@@ -1,0 +1,8 @@
+base_model_path: "checkpoint/RATE_8B"
+adapter_path: null
+keywords_file: "data/keywords.json"
+data_path: 
+  - "data/evaluations_pc.json"
+  - "data/evaluations_rc.json"
+output_path: "predictions"
+device: "auto"

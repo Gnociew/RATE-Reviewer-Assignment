@@ -1,0 +1,2122 @@
+[
+  {
+    "anchor_id": "paper_100000",
+    "positive_id": "author_695265",
+    "negative_id": "author_592279",
+    "type": "paper_centric",
+    "positive_score": 0.5984070301055908,
+    "negative_score": 0.6537704467773438,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100000",
+    "positive_id": "author_695265",
+    "negative_id": "author_656045",
+    "type": "paper_centric",
+    "positive_score": 0.5984070301055908,
+    "negative_score": 0.6132673025131226,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100001",
+    "positive_id": "author_445191",
+    "negative_id": "author_610649",
+    "type": "paper_centric",
+    "positive_score": 0.5723255276679993,
+    "negative_score": 0.49404874444007874,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100002",
+    "positive_id": "author_400040",
+    "negative_id": "author_264483",
+    "type": "paper_centric",
+    "positive_score": 0.46459144353866577,
+    "negative_score": 0.6068406701087952,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100003",
+    "positive_id": "author_612069",
+    "negative_id": "author_552312",
+    "type": "paper_centric",
+    "positive_score": 0.5246843099594116,
+    "negative_score": 0.5992513298988342,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100004",
+    "positive_id": "author_486436",
+    "negative_id": "author_483984",
+    "type": "paper_centric",
+    "positive_score": 0.5158963799476624,
+    "negative_score": 0.6237709522247314,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100005",
+    "positive_id": "author_586605",
+    "negative_id": "author_521654",
+    "type": "paper_centric",
+    "positive_score": 0.5416247844696045,
+    "negative_score": 0.4713031053543091,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100005",
+    "positive_id": "author_442679",
+    "negative_id": "author_521654",
+    "type": "paper_centric",
+    "positive_score": 0.5292328596115112,
+    "negative_score": 0.4713031053543091,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100006",
+    "positive_id": "author_459532",
+    "negative_id": "author_609376",
+    "type": "paper_centric",
+    "positive_score": 0.6133096218109131,
+    "negative_score": 0.4549446702003479,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100007",
+    "positive_id": "author_458872",
+    "negative_id": "author_526832",
+    "type": "paper_centric",
+    "positive_score": 0.6097753643989563,
+    "negative_score": 0.6217485666275024,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100007",
+    "positive_id": "author_557730",
+    "negative_id": "author_526832",
+    "type": "paper_centric",
+    "positive_score": 0.6390219926834106,
+    "negative_score": 0.6217485666275024,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100008",
+    "positive_id": "author_271742",
+    "negative_id": "author_271741",
+    "type": "paper_centric",
+    "positive_score": 0.5823339223861694,
+    "negative_score": 0.6247626543045044,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100009",
+    "positive_id": "author_566646",
+    "negative_id": "author_557640",
+    "type": "paper_centric",
+    "positive_score": 0.6259088516235352,
+    "negative_score": 0.6170040965080261,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100010",
+    "positive_id": "author_517494",
+    "negative_id": "author_604774",
+    "type": "paper_centric",
+    "positive_score": 0.6015439629554749,
+    "negative_score": 0.6663990616798401,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100011",
+    "positive_id": "author_478170",
+    "negative_id": "author_468842",
+    "type": "paper_centric",
+    "positive_score": 0.5905930995941162,
+    "negative_score": 0.608328104019165,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100012",
+    "positive_id": "author_479022",
+    "negative_id": "author_442679",
+    "type": "paper_centric",
+    "positive_score": 0.5905228853225708,
+    "negative_score": 0.5313098430633545,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100013",
+    "positive_id": "author_676765",
+    "negative_id": "author_300187",
+    "type": "paper_centric",
+    "positive_score": 0.7554213404655457,
+    "negative_score": 0.7278695702552795,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100014",
+    "positive_id": "author_372964",
+    "negative_id": "author_459532",
+    "type": "paper_centric",
+    "positive_score": 0.6132599115371704,
+    "negative_score": 0.5151057243347168,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100015",
+    "positive_id": "author_622851",
+    "negative_id": "author_398925",
+    "type": "paper_centric",
+    "positive_score": 0.591074526309967,
+    "negative_score": 0.40640005469322205,
+    "positive_ref_score": 4,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100016",
+    "positive_id": "author_438413",
+    "negative_id": "author_243656",
+    "type": "paper_centric",
+    "positive_score": 0.5556843280792236,
+    "negative_score": 0.4619084894657135,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100016",
+    "positive_id": "author_539200",
+    "negative_id": "author_243656",
+    "type": "paper_centric",
+    "positive_score": 0.5770966410636902,
+    "negative_score": 0.4619084894657135,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100016",
+    "positive_id": "author_438413",
+    "negative_id": "author_539200",
+    "type": "paper_centric",
+    "positive_score": 0.5556843280792236,
+    "negative_score": 0.5770966410636902,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100017",
+    "positive_id": "author_559453",
+    "negative_id": "author_254451",
+    "type": "paper_centric",
+    "positive_score": 0.6970903277397156,
+    "negative_score": 0.6345357894897461,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100018",
+    "positive_id": "author_559453",
+    "negative_id": "author_428290",
+    "type": "paper_centric",
+    "positive_score": 0.6988757848739624,
+    "negative_score": 0.6092696189880371,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100019",
+    "positive_id": "author_271741",
+    "negative_id": "author_263095",
+    "type": "paper_centric",
+    "positive_score": 0.7573090195655823,
+    "negative_score": 0.5095354318618774,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100020",
+    "positive_id": "author_243656",
+    "negative_id": "author_546190",
+    "type": "paper_centric",
+    "positive_score": 0.4332294464111328,
+    "negative_score": 0.4271209239959717,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100021",
+    "positive_id": "author_489044",
+    "negative_id": "author_262421",
+    "type": "paper_centric",
+    "positive_score": 0.7557072639465332,
+    "negative_score": 0.532607913017273,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100022",
+    "positive_id": "author_486436",
+    "negative_id": "author_518405",
+    "type": "paper_centric",
+    "positive_score": 0.6282532215118408,
+    "negative_score": 0.4890933334827423,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100023",
+    "positive_id": "author_440008",
+    "negative_id": "author_521654",
+    "type": "paper_centric",
+    "positive_score": 0.6447961330413818,
+    "negative_score": 0.6101125478744507,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100024",
+    "positive_id": "author_520824",
+    "negative_id": "author_428174",
+    "type": "paper_centric",
+    "positive_score": 0.7060257196426392,
+    "negative_score": 0.5710824131965637,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100025",
+    "positive_id": "author_502834",
+    "negative_id": "author_604988",
+    "type": "paper_centric",
+    "positive_score": 0.7787061333656311,
+    "negative_score": 0.3799174726009369,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100025",
+    "positive_id": "author_502834",
+    "negative_id": "author_547847",
+    "type": "paper_centric",
+    "positive_score": 0.7787061333656311,
+    "negative_score": 0.49514761567115784,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100025",
+    "positive_id": "author_502834",
+    "negative_id": "author_399739",
+    "type": "paper_centric",
+    "positive_score": 0.7787061333656311,
+    "negative_score": 0.48968076705932617,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100025",
+    "positive_id": "author_604988",
+    "negative_id": "author_547847",
+    "type": "paper_centric",
+    "positive_score": 0.3799174726009369,
+    "negative_score": 0.49514761567115784,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100025",
+    "positive_id": "author_399739",
+    "negative_id": "author_547847",
+    "type": "paper_centric",
+    "positive_score": 0.48968076705932617,
+    "negative_score": 0.49514761567115784,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100026",
+    "positive_id": "author_594785",
+    "negative_id": "author_263095",
+    "type": "paper_centric",
+    "positive_score": 0.8057298064231873,
+    "negative_score": 0.5727256536483765,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100027",
+    "positive_id": "author_458831",
+    "negative_id": "author_491280",
+    "type": "paper_centric",
+    "positive_score": 0.4685959219932556,
+    "negative_score": 0.4822348952293396,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100028",
+    "positive_id": "author_243656",
+    "negative_id": "author_235747",
+    "type": "paper_centric",
+    "positive_score": 0.6639878153800964,
+    "negative_score": 0.7012560367584229,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100029",
+    "positive_id": "author_458825",
+    "negative_id": "author_609704",
+    "type": "paper_centric",
+    "positive_score": 0.5027555823326111,
+    "negative_score": 0.4922197163105011,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100030",
+    "positive_id": "author_612217",
+    "negative_id": "author_586540",
+    "type": "paper_centric",
+    "positive_score": 0.6639431715011597,
+    "negative_score": 0.48629337549209595,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100030",
+    "positive_id": "author_586540",
+    "negative_id": "author_659841",
+    "type": "paper_centric",
+    "positive_score": 0.48629337549209595,
+    "negative_score": 0.5935039520263672,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100030",
+    "positive_id": "author_612217",
+    "negative_id": "author_659841",
+    "type": "paper_centric",
+    "positive_score": 0.6639431715011597,
+    "negative_score": 0.5935039520263672,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100031",
+    "positive_id": "author_560182",
+    "negative_id": "author_461991",
+    "type": "paper_centric",
+    "positive_score": 0.5291169881820679,
+    "negative_score": 0.596344530582428,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100032",
+    "positive_id": "author_510342",
+    "negative_id": "author_579394",
+    "type": "paper_centric",
+    "positive_score": 0.4488133192062378,
+    "negative_score": 0.489418089389801,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100033",
+    "positive_id": "author_235272",
+    "negative_id": "author_399739",
+    "type": "paper_centric",
+    "positive_score": 0.7727175951004028,
+    "negative_score": 0.4930960536003113,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100034",
+    "positive_id": "author_583055",
+    "negative_id": "author_634877",
+    "type": "paper_centric",
+    "positive_score": 0.6595304012298584,
+    "negative_score": 0.5295496582984924,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100035",
+    "positive_id": "author_604774",
+    "negative_id": "author_647478",
+    "type": "paper_centric",
+    "positive_score": 0.6595556735992432,
+    "negative_score": 0.5008487701416016,
+    "positive_ref_score": 4,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100036",
+    "positive_id": "author_559786",
+    "negative_id": "author_656199",
+    "type": "paper_centric",
+    "positive_score": 0.626347005367279,
+    "negative_score": 0.5844005346298218,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100037",
+    "positive_id": "author_656199",
+    "negative_id": "author_665253",
+    "type": "paper_centric",
+    "positive_score": 0.7681085467338562,
+    "negative_score": 0.6064311265945435,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100038",
+    "positive_id": "author_435775",
+    "negative_id": "author_525726",
+    "type": "paper_centric",
+    "positive_score": 0.5741966962814331,
+    "negative_score": 0.5389472246170044,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100038",
+    "positive_id": "author_435775",
+    "negative_id": "author_207822",
+    "type": "paper_centric",
+    "positive_score": 0.5741966962814331,
+    "negative_score": 0.5951356887817383,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100039",
+    "positive_id": "author_418639",
+    "negative_id": "author_424286",
+    "type": "paper_centric",
+    "positive_score": 0.8139091730117798,
+    "negative_score": 0.5898693799972534,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100040",
+    "positive_id": "author_215659",
+    "negative_id": "author_398615",
+    "type": "paper_centric",
+    "positive_score": 0.7498162984848022,
+    "negative_score": 0.639853835105896,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100041",
+    "positive_id": "author_695265",
+    "negative_id": "author_656045",
+    "type": "paper_centric",
+    "positive_score": 0.6999925374984741,
+    "negative_score": 0.6668621897697449,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100042",
+    "positive_id": "author_656199",
+    "negative_id": "author_707108",
+    "type": "paper_centric",
+    "positive_score": 0.7237203121185303,
+    "negative_score": 0.4337548613548279,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100042",
+    "positive_id": "author_707108",
+    "negative_id": "author_592279",
+    "type": "paper_centric",
+    "positive_score": 0.4337548613548279,
+    "negative_score": 0.6233075261116028,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100042",
+    "positive_id": "author_656199",
+    "negative_id": "author_592279",
+    "type": "paper_centric",
+    "positive_score": 0.7237203121185303,
+    "negative_score": 0.6233075261116028,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100042",
+    "positive_id": "author_656199",
+    "negative_id": "author_662529",
+    "type": "paper_centric",
+    "positive_score": 0.7237203121185303,
+    "negative_score": 0.5930907726287842,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100042",
+    "positive_id": "author_662529",
+    "negative_id": "author_592279",
+    "type": "paper_centric",
+    "positive_score": 0.5930907726287842,
+    "negative_score": 0.6233075261116028,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100043",
+    "positive_id": "author_482288",
+    "negative_id": "author_557409",
+    "type": "paper_centric",
+    "positive_score": 0.665823221206665,
+    "negative_score": 0.5549484491348267,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100043",
+    "positive_id": "author_520824",
+    "negative_id": "author_557409",
+    "type": "paper_centric",
+    "positive_score": 0.6418368220329285,
+    "negative_score": 0.5549484491348267,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100043",
+    "positive_id": "author_482288",
+    "negative_id": "author_520824",
+    "type": "paper_centric",
+    "positive_score": 0.665823221206665,
+    "negative_score": 0.6418368220329285,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100044",
+    "positive_id": "author_508162",
+    "negative_id": "author_537591",
+    "type": "paper_centric",
+    "positive_score": 0.7001310586929321,
+    "negative_score": 0.48018506169319153,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100045",
+    "positive_id": "author_587178",
+    "negative_id": "author_270141",
+    "type": "paper_centric",
+    "positive_score": 0.690393328666687,
+    "negative_score": 0.6836854219436646,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100046",
+    "positive_id": "author_520824",
+    "negative_id": "author_428174",
+    "type": "paper_centric",
+    "positive_score": 0.7566569447517395,
+    "negative_score": 0.5426953434944153,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100047",
+    "positive_id": "author_585491",
+    "negative_id": "author_512295",
+    "type": "paper_centric",
+    "positive_score": 0.6086649298667908,
+    "negative_score": 0.4620693624019623,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100048",
+    "positive_id": "author_574664",
+    "negative_id": "author_558134",
+    "type": "paper_centric",
+    "positive_score": 0.5792679786682129,
+    "negative_score": 0.4731200337409973,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100048",
+    "positive_id": "author_673041",
+    "negative_id": "author_558134",
+    "type": "paper_centric",
+    "positive_score": 0.7424189448356628,
+    "negative_score": 0.4731200337409973,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100049",
+    "positive_id": "author_495087",
+    "negative_id": "author_583055",
+    "type": "paper_centric",
+    "positive_score": 0.5437201857566833,
+    "negative_score": 0.5508473515510559,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100050",
+    "positive_id": "author_400345",
+    "negative_id": "author_542820",
+    "type": "paper_centric",
+    "positive_score": 0.7311915159225464,
+    "negative_score": 0.5577727556228638,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100051",
+    "positive_id": "author_315168",
+    "negative_id": "author_516500",
+    "type": "paper_centric",
+    "positive_score": 0.6005592346191406,
+    "negative_score": 0.5574870109558105,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100052",
+    "positive_id": "author_619164",
+    "negative_id": "author_619167",
+    "type": "paper_centric",
+    "positive_score": 0.4743996560573578,
+    "negative_score": 0.4743996560573578,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100053",
+    "positive_id": "author_408454",
+    "negative_id": "author_416233",
+    "type": "paper_centric",
+    "positive_score": 0.6067342162132263,
+    "negative_score": 0.5575498938560486,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100054",
+    "positive_id": "author_595487",
+    "negative_id": "author_433049",
+    "type": "paper_centric",
+    "positive_score": 0.5282710790634155,
+    "negative_score": 0.41099196672439575,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100055",
+    "positive_id": "author_211272",
+    "negative_id": "author_479759",
+    "type": "paper_centric",
+    "positive_score": 0.7600186467170715,
+    "negative_score": 0.7569117546081543,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100055",
+    "positive_id": "author_211272",
+    "negative_id": "author_211271",
+    "type": "paper_centric",
+    "positive_score": 0.7600186467170715,
+    "negative_score": 0.7272146940231323,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100056",
+    "positive_id": "author_559453",
+    "negative_id": "author_428174",
+    "type": "paper_centric",
+    "positive_score": 0.5628699660301208,
+    "negative_score": 0.511737048625946,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100057",
+    "positive_id": "author_575759",
+    "negative_id": "author_544316",
+    "type": "paper_centric",
+    "positive_score": 0.7139047980308533,
+    "negative_score": 0.7049846649169922,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100057",
+    "positive_id": "author_575759",
+    "negative_id": "author_540497",
+    "type": "paper_centric",
+    "positive_score": 0.7139047980308533,
+    "negative_score": 0.7250256538391113,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100058",
+    "positive_id": "author_646000",
+    "negative_id": "author_235272",
+    "type": "paper_centric",
+    "positive_score": 0.4905119240283966,
+    "negative_score": 0.5818840265274048,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100059",
+    "positive_id": "author_420521",
+    "negative_id": "author_476130",
+    "type": "paper_centric",
+    "positive_score": 0.7381986379623413,
+    "negative_score": 0.46900010108947754,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100060",
+    "positive_id": "author_585491",
+    "negative_id": "author_616625",
+    "type": "paper_centric",
+    "positive_score": 0.649941086769104,
+    "negative_score": 0.6205697059631348,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100061",
+    "positive_id": "author_432529",
+    "negative_id": "author_534458",
+    "type": "paper_centric",
+    "positive_score": 0.6907713413238525,
+    "negative_score": 0.3583959639072418,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100062",
+    "positive_id": "author_270141",
+    "negative_id": "author_230434",
+    "type": "paper_centric",
+    "positive_score": 0.6678184270858765,
+    "negative_score": 0.6271535754203796,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100063",
+    "positive_id": "author_229105",
+    "negative_id": "author_270141",
+    "type": "paper_centric",
+    "positive_score": 0.7242029905319214,
+    "negative_score": 0.5937246084213257,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100064",
+    "positive_id": "author_215659",
+    "negative_id": "author_204749",
+    "type": "paper_centric",
+    "positive_score": 0.6015526652336121,
+    "negative_score": 0.5192580223083496,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100064",
+    "positive_id": "author_215659",
+    "negative_id": "author_448884",
+    "type": "paper_centric",
+    "positive_score": 0.6015526652336121,
+    "negative_score": 0.5001110434532166,
+    "positive_ref_score": 4,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100064",
+    "positive_id": "author_204749",
+    "negative_id": "author_448884",
+    "type": "paper_centric",
+    "positive_score": 0.5192580223083496,
+    "negative_score": 0.5001110434532166,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100065",
+    "positive_id": "author_524938",
+    "negative_id": "author_512295",
+    "type": "paper_centric",
+    "positive_score": 0.6866315603256226,
+    "negative_score": 0.4726691246032715,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100066",
+    "positive_id": "author_461331",
+    "negative_id": "author_683908",
+    "type": "paper_centric",
+    "positive_score": 0.43859562277793884,
+    "negative_score": 0.7054234743118286,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100067",
+    "positive_id": "author_453486",
+    "negative_id": "author_429349",
+    "type": "paper_centric",
+    "positive_score": 0.5187205076217651,
+    "negative_score": 0.42124271392822266,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100068",
+    "positive_id": "author_594785",
+    "negative_id": "author_519549",
+    "type": "paper_centric",
+    "positive_score": 0.7035818099975586,
+    "negative_score": 0.44997984170913696,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100069",
+    "positive_id": "author_223413",
+    "negative_id": "author_450175",
+    "type": "paper_centric",
+    "positive_score": 0.7046156525611877,
+    "negative_score": 0.6104243397712708,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100069",
+    "positive_id": "author_642666",
+    "negative_id": "author_450175",
+    "type": "paper_centric",
+    "positive_score": 0.7206505537033081,
+    "negative_score": 0.6104243397712708,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100069",
+    "positive_id": "author_223413",
+    "negative_id": "author_337038",
+    "type": "paper_centric",
+    "positive_score": 0.7046156525611877,
+    "negative_score": 0.6037662625312805,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100069",
+    "positive_id": "author_642666",
+    "negative_id": "author_223413",
+    "type": "paper_centric",
+    "positive_score": 0.7206505537033081,
+    "negative_score": 0.7046156525611877,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100069",
+    "positive_id": "author_642666",
+    "negative_id": "author_337038",
+    "type": "paper_centric",
+    "positive_score": 0.7206505537033081,
+    "negative_score": 0.6037662625312805,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100070",
+    "positive_id": "author_519549",
+    "negative_id": "author_243460",
+    "type": "paper_centric",
+    "positive_score": 0.7577908039093018,
+    "negative_score": 0.5790460109710693,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100070",
+    "positive_id": "author_500285",
+    "negative_id": "author_243460",
+    "type": "paper_centric",
+    "positive_score": 0.7819225192070007,
+    "negative_score": 0.5790460109710693,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100071",
+    "positive_id": "author_429488",
+    "negative_id": "author_623433",
+    "type": "paper_centric",
+    "positive_score": 0.6608702540397644,
+    "negative_score": 0.6367743015289307,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100072",
+    "positive_id": "author_270371",
+    "negative_id": "author_445211",
+    "type": "paper_centric",
+    "positive_score": 0.7123117446899414,
+    "negative_score": 0.4722651243209839,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100073",
+    "positive_id": "author_286547",
+    "negative_id": "author_481403",
+    "type": "paper_centric",
+    "positive_score": 0.6274213194847107,
+    "negative_score": 0.4020933508872986,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100073",
+    "positive_id": "author_286547",
+    "negative_id": "author_662529",
+    "type": "paper_centric",
+    "positive_score": 0.6274213194847107,
+    "negative_score": 0.5976558327674866,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100073",
+    "positive_id": "author_662529",
+    "negative_id": "author_481403",
+    "type": "paper_centric",
+    "positive_score": 0.5976558327674866,
+    "negative_score": 0.4020933508872986,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100074",
+    "positive_id": "author_479022",
+    "negative_id": "author_451728",
+    "type": "paper_centric",
+    "positive_score": 0.5105265974998474,
+    "negative_score": 0.524053692817688,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100075",
+    "positive_id": "author_226445",
+    "negative_id": "author_567339",
+    "type": "paper_centric",
+    "positive_score": 0.6816204786300659,
+    "negative_score": 0.6769499778747559,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100076",
+    "positive_id": "author_243656",
+    "negative_id": "author_519549",
+    "type": "paper_centric",
+    "positive_score": 0.6847977638244629,
+    "negative_score": 0.4370463788509369,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100077",
+    "positive_id": "author_489868",
+    "negative_id": "author_495087",
+    "type": "paper_centric",
+    "positive_score": 0.6724611520767212,
+    "negative_score": 0.45513051748275757,
+    "positive_ref_score": 4,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100078",
+    "positive_id": "author_650853",
+    "negative_id": "author_554706",
+    "type": "paper_centric",
+    "positive_score": 0.6134244799613953,
+    "negative_score": 0.5103152394294739,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100079",
+    "positive_id": "author_604930",
+    "negative_id": "author_218042",
+    "type": "paper_centric",
+    "positive_score": 0.692094087600708,
+    "negative_score": 0.5839351415634155,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100080",
+    "positive_id": "author_215659",
+    "negative_id": "author_398615",
+    "type": "paper_centric",
+    "positive_score": 0.7806982398033142,
+    "negative_score": 0.6629171371459961,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100080",
+    "positive_id": "author_215659",
+    "negative_id": "author_418350",
+    "type": "paper_centric",
+    "positive_score": 0.7806982398033142,
+    "negative_score": 0.5940008163452148,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100080",
+    "positive_id": "author_398615",
+    "negative_id": "author_418350",
+    "type": "paper_centric",
+    "positive_score": 0.6629171371459961,
+    "negative_score": 0.5940008163452148,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100081",
+    "positive_id": "author_554706",
+    "negative_id": "author_546190",
+    "type": "paper_centric",
+    "positive_score": 0.7028217911720276,
+    "negative_score": 0.5506241321563721,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100082",
+    "positive_id": "author_221668",
+    "negative_id": "author_433049",
+    "type": "paper_centric",
+    "positive_score": 0.4941396117210388,
+    "negative_score": 0.44321078062057495,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100083",
+    "positive_id": "author_624515",
+    "negative_id": "author_657120",
+    "type": "paper_centric",
+    "positive_score": 0.5982708930969238,
+    "negative_score": 0.5338310599327087,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100084",
+    "positive_id": "author_474812",
+    "negative_id": "author_560182",
+    "type": "paper_centric",
+    "positive_score": 0.6505992412567139,
+    "negative_score": 0.4197787046432495,
+    "positive_ref_score": 4,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100084",
+    "positive_id": "author_474812",
+    "negative_id": "author_416749",
+    "type": "paper_centric",
+    "positive_score": 0.6505992412567139,
+    "negative_score": 0.6422441601753235,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100084",
+    "positive_id": "author_474812",
+    "negative_id": "author_230434",
+    "type": "paper_centric",
+    "positive_score": 0.6505992412567139,
+    "negative_score": 0.5881958603858948,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100084",
+    "positive_id": "author_416749",
+    "negative_id": "author_560182",
+    "type": "paper_centric",
+    "positive_score": 0.6422441601753235,
+    "negative_score": 0.4197787046432495,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100084",
+    "positive_id": "author_230434",
+    "negative_id": "author_560182",
+    "type": "paper_centric",
+    "positive_score": 0.5881958603858948,
+    "negative_score": 0.4197787046432495,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100084",
+    "positive_id": "author_416749",
+    "negative_id": "author_230434",
+    "type": "paper_centric",
+    "positive_score": 0.6422441601753235,
+    "negative_score": 0.5881958603858948,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100085",
+    "positive_id": "author_493951",
+    "negative_id": "author_541613",
+    "type": "paper_centric",
+    "positive_score": 0.7004046440124512,
+    "negative_score": 0.5153155326843262,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100086",
+    "positive_id": "author_405410",
+    "negative_id": "author_428174",
+    "type": "paper_centric",
+    "positive_score": 0.7546299695968628,
+    "negative_score": 0.48918798565864563,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100087",
+    "positive_id": "author_336513",
+    "negative_id": "author_585021",
+    "type": "paper_centric",
+    "positive_score": 0.7413444519042969,
+    "negative_score": 0.6076977252960205,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100088",
+    "positive_id": "author_242978",
+    "negative_id": "author_424440",
+    "type": "paper_centric",
+    "positive_score": 0.7441149950027466,
+    "negative_score": 0.4555920958518982,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100089",
+    "positive_id": "author_208412",
+    "negative_id": "author_550130",
+    "type": "paper_centric",
+    "positive_score": 0.6839790344238281,
+    "negative_score": 0.6537800431251526,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100090",
+    "positive_id": "author_596184",
+    "negative_id": "author_298256",
+    "type": "paper_centric",
+    "positive_score": 0.6258281469345093,
+    "negative_score": 0.533705472946167,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100091",
+    "positive_id": "author_647478",
+    "negative_id": "author_223413",
+    "type": "paper_centric",
+    "positive_score": 0.504507303237915,
+    "negative_score": 0.4706946313381195,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100092",
+    "positive_id": "author_420813",
+    "negative_id": "author_479466",
+    "type": "paper_centric",
+    "positive_score": 0.5594059824943542,
+    "negative_score": 0.4688243865966797,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100093",
+    "positive_id": "author_517494",
+    "negative_id": "author_567241",
+    "type": "paper_centric",
+    "positive_score": 0.5128337740898132,
+    "negative_score": 0.433197021484375,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100094",
+    "positive_id": "author_469998",
+    "negative_id": "author_512295",
+    "type": "paper_centric",
+    "positive_score": 0.47803905606269836,
+    "negative_score": 0.4184848666191101,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100095",
+    "positive_id": "author_469998",
+    "negative_id": "author_546190",
+    "type": "paper_centric",
+    "positive_score": 0.3986668586730957,
+    "negative_score": 0.48884475231170654,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100096",
+    "positive_id": "author_609376",
+    "negative_id": "author_446751",
+    "type": "paper_centric",
+    "positive_score": 0.6953256130218506,
+    "negative_score": 0.5096849203109741,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100097",
+    "positive_id": "author_517663",
+    "negative_id": "author_428174",
+    "type": "paper_centric",
+    "positive_score": 0.6027935743331909,
+    "negative_score": 0.5678114891052246,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100098",
+    "positive_id": "author_211419",
+    "negative_id": "author_458872",
+    "type": "paper_centric",
+    "positive_score": 0.6533737778663635,
+    "negative_score": 0.4698595106601715,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100098",
+    "positive_id": "author_703219",
+    "negative_id": "author_458872",
+    "type": "paper_centric",
+    "positive_score": 0.6557585000991821,
+    "negative_score": 0.4698595106601715,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100099",
+    "positive_id": "author_643210",
+    "negative_id": "author_401787",
+    "type": "paper_centric",
+    "positive_score": 0.5932297706604004,
+    "negative_score": 0.6795912981033325,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100100",
+    "positive_id": "author_520824",
+    "negative_id": "author_433049",
+    "type": "paper_centric",
+    "positive_score": 0.7089034914970398,
+    "negative_score": 0.5528668165206909,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100101",
+    "positive_id": "author_438413",
+    "negative_id": "author_201117",
+    "type": "paper_centric",
+    "positive_score": 0.578187882900238,
+    "negative_score": 0.44425511360168457,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100101",
+    "positive_id": "author_438413",
+    "negative_id": "author_215482",
+    "type": "paper_centric",
+    "positive_score": 0.578187882900238,
+    "negative_score": 0.5769960880279541,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100101",
+    "positive_id": "author_201117",
+    "negative_id": "author_215482",
+    "type": "paper_centric",
+    "positive_score": 0.44425511360168457,
+    "negative_score": 0.5769960880279541,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100102",
+    "positive_id": "author_295958",
+    "negative_id": "author_292927",
+    "type": "paper_centric",
+    "positive_score": 0.5822202563285828,
+    "negative_score": 0.5666664242744446,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100103",
+    "positive_id": "author_554706",
+    "negative_id": "author_475067",
+    "type": "paper_centric",
+    "positive_score": 0.6381601095199585,
+    "negative_score": 0.5568770170211792,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100104",
+    "positive_id": "author_295958",
+    "negative_id": "author_489581",
+    "type": "paper_centric",
+    "positive_score": 0.5678945183753967,
+    "negative_score": 0.49154797196388245,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100105",
+    "positive_id": "author_666336",
+    "negative_id": "author_539039",
+    "type": "paper_centric",
+    "positive_score": 0.5707899928092957,
+    "negative_score": 0.44295310974121094,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100106",
+    "positive_id": "author_552910",
+    "negative_id": "author_539200",
+    "type": "paper_centric",
+    "positive_score": 0.5816452503204346,
+    "negative_score": 0.5530796051025391,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100107",
+    "positive_id": "author_676608",
+    "negative_id": "author_592279",
+    "type": "paper_centric",
+    "positive_score": 0.7247574329376221,
+    "negative_score": 0.49636009335517883,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100108",
+    "positive_id": "author_690350",
+    "negative_id": "author_207400",
+    "type": "paper_centric",
+    "positive_score": 0.45399636030197144,
+    "negative_score": 0.6170998811721802,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100109",
+    "positive_id": "author_484396",
+    "negative_id": "author_646000",
+    "type": "paper_centric",
+    "positive_score": 0.7324024438858032,
+    "negative_score": 0.5753157138824463,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100110",
+    "positive_id": "author_428290",
+    "negative_id": "author_426906",
+    "type": "paper_centric",
+    "positive_score": 0.5604249835014343,
+    "negative_score": 0.4764907956123352,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100111",
+    "positive_id": "author_398925",
+    "negative_id": "author_634877",
+    "type": "paper_centric",
+    "positive_score": 0.3693799078464508,
+    "negative_score": 0.46405085921287537,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100111",
+    "positive_id": "author_398925",
+    "negative_id": "author_254451",
+    "type": "paper_centric",
+    "positive_score": 0.3693799078464508,
+    "negative_score": 0.4109928607940674,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100112",
+    "positive_id": "author_494217",
+    "negative_id": "author_513436",
+    "type": "paper_centric",
+    "positive_score": 0.6274800300598145,
+    "negative_score": 0.6943384408950806,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100113",
+    "positive_id": "author_512295",
+    "negative_id": "author_519549",
+    "type": "paper_centric",
+    "positive_score": 0.4419964551925659,
+    "negative_score": 0.527448296546936,
+    "positive_ref_score": 4,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100114",
+    "positive_id": "author_418350",
+    "negative_id": "author_539200",
+    "type": "paper_centric",
+    "positive_score": 0.582476019859314,
+    "negative_score": 0.43359705805778503,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100115",
+    "positive_id": "author_441746",
+    "negative_id": "author_668250",
+    "type": "paper_centric",
+    "positive_score": 0.505699872970581,
+    "negative_score": 0.6830538511276245,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100116",
+    "positive_id": "author_393773",
+    "negative_id": "author_408781",
+    "type": "paper_centric",
+    "positive_score": 0.5482354164123535,
+    "negative_score": 0.5114911794662476,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100117",
+    "positive_id": "author_458825",
+    "negative_id": "author_207400",
+    "type": "paper_centric",
+    "positive_score": 0.6152846813201904,
+    "negative_score": 0.46181339025497437,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100118",
+    "positive_id": "author_236853",
+    "negative_id": "author_448566",
+    "type": "paper_centric",
+    "positive_score": 0.6699800491333008,
+    "negative_score": 0.40678632259368896,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100119",
+    "positive_id": "author_207822",
+    "negative_id": "author_521200",
+    "type": "paper_centric",
+    "positive_score": 0.5268666744232178,
+    "negative_score": 0.3633972108364105,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100120",
+    "positive_id": "author_594377",
+    "negative_id": "author_520148",
+    "type": "paper_centric",
+    "positive_score": 0.7286269664764404,
+    "negative_score": 0.42763590812683105,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100121",
+    "positive_id": "author_557730",
+    "negative_id": "author_526832",
+    "type": "paper_centric",
+    "positive_score": 0.5860570073127747,
+    "negative_score": 0.5831780433654785,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100122",
+    "positive_id": "author_666247",
+    "negative_id": "author_527223",
+    "type": "paper_centric",
+    "positive_score": 0.7650779485702515,
+    "negative_score": 0.6954796314239502,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100122",
+    "positive_id": "author_666247",
+    "negative_id": "author_564774",
+    "type": "paper_centric",
+    "positive_score": 0.7650779485702515,
+    "negative_score": 0.5726936459541321,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100123",
+    "positive_id": "author_559786",
+    "negative_id": "author_426906",
+    "type": "paper_centric",
+    "positive_score": 0.6646414399147034,
+    "negative_score": 0.4751392900943756,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100124",
+    "positive_id": "author_568811",
+    "negative_id": "author_448566",
+    "type": "paper_centric",
+    "positive_score": 0.7402211427688599,
+    "negative_score": 0.4720662236213684,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100125",
+    "positive_id": "author_254451",
+    "negative_id": "author_647478",
+    "type": "paper_centric",
+    "positive_score": 0.6279253959655762,
+    "negative_score": 0.5342784523963928,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100126",
+    "positive_id": "author_491280",
+    "negative_id": "author_656199",
+    "type": "paper_centric",
+    "positive_score": 0.6087363958358765,
+    "negative_score": 0.6427102088928223,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100126",
+    "positive_id": "author_491280",
+    "negative_id": "author_656045",
+    "type": "paper_centric",
+    "positive_score": 0.6087363958358765,
+    "negative_score": 0.6024381518363953,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100126",
+    "positive_id": "author_656045",
+    "negative_id": "author_656199",
+    "type": "paper_centric",
+    "positive_score": 0.6024381518363953,
+    "negative_score": 0.6427102088928223,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100126",
+    "positive_id": "author_559786",
+    "negative_id": "author_656199",
+    "type": "paper_centric",
+    "positive_score": 0.6795642971992493,
+    "negative_score": 0.6427102088928223,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100126",
+    "positive_id": "author_559786",
+    "negative_id": "author_656045",
+    "type": "paper_centric",
+    "positive_score": 0.6795642971992493,
+    "negative_score": 0.6024381518363953,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100127",
+    "positive_id": "author_585491",
+    "negative_id": "author_544316",
+    "type": "paper_centric",
+    "positive_score": 0.5743683576583862,
+    "negative_score": 0.6836517453193665,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100127",
+    "positive_id": "author_544316",
+    "negative_id": "author_540497",
+    "type": "paper_centric",
+    "positive_score": 0.6836517453193665,
+    "negative_score": 0.670783519744873,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100127",
+    "positive_id": "author_585491",
+    "negative_id": "author_540497",
+    "type": "paper_centric",
+    "positive_score": 0.5743683576583862,
+    "negative_score": 0.670783519744873,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100128",
+    "positive_id": "author_201117",
+    "negative_id": "author_473924",
+    "type": "paper_centric",
+    "positive_score": 0.5514320731163025,
+    "negative_score": 0.6081985831260681,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100129",
+    "positive_id": "author_418350",
+    "negative_id": "author_596184",
+    "type": "paper_centric",
+    "positive_score": 0.6383519172668457,
+    "negative_score": 0.5326447486877441,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100130",
+    "positive_id": "author_526832",
+    "negative_id": "author_557730",
+    "type": "paper_centric",
+    "positive_score": 0.6015516519546509,
+    "negative_score": 0.6113395690917969,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100131",
+    "positive_id": "author_455639",
+    "negative_id": "author_413449",
+    "type": "paper_centric",
+    "positive_score": 0.5356926321983337,
+    "negative_score": 0.6071149706840515,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100131",
+    "positive_id": "author_455639",
+    "negative_id": "author_565533",
+    "type": "paper_centric",
+    "positive_score": 0.5356926321983337,
+    "negative_score": 0.48557209968566895,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100131",
+    "positive_id": "author_413449",
+    "negative_id": "author_565533",
+    "type": "paper_centric",
+    "positive_score": 0.6071149706840515,
+    "negative_score": 0.48557209968566895,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100132",
+    "positive_id": "author_575246",
+    "negative_id": "author_676765",
+    "type": "paper_centric",
+    "positive_score": 0.6083971261978149,
+    "negative_score": 0.6458392143249512,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100133",
+    "positive_id": "author_660279",
+    "negative_id": "author_468395",
+    "type": "paper_centric",
+    "positive_score": 0.4477919936180115,
+    "negative_score": 0.3669480085372925,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100133",
+    "positive_id": "author_400332",
+    "negative_id": "author_468395",
+    "type": "paper_centric",
+    "positive_score": 0.5081779956817627,
+    "negative_score": 0.3669480085372925,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100133",
+    "positive_id": "author_421643",
+    "negative_id": "author_468395",
+    "type": "paper_centric",
+    "positive_score": 0.43995237350463867,
+    "negative_score": 0.3669480085372925,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100134",
+    "positive_id": "author_207376",
+    "negative_id": "author_625195",
+    "type": "paper_centric",
+    "positive_score": 0.5964617729187012,
+    "negative_score": 0.722881019115448,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100135",
+    "positive_id": "author_638262",
+    "negative_id": "author_432125",
+    "type": "paper_centric",
+    "positive_score": 0.6160444021224976,
+    "negative_score": 0.5897912979125977,
+    "positive_ref_score": 5,
+    "negative_ref_score": 4
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_432529",
+    "negative_id": "author_238246",
+    "type": "paper_centric",
+    "positive_score": 0.721983015537262,
+    "negative_score": 0.5163246989250183,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_432529",
+    "negative_id": "author_587178",
+    "type": "paper_centric",
+    "positive_score": 0.721983015537262,
+    "negative_score": 0.47901836037635803,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_432529",
+    "negative_id": "author_399739",
+    "type": "paper_centric",
+    "positive_score": 0.721983015537262,
+    "negative_score": 0.4882811903953552,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_577585",
+    "negative_id": "author_238246",
+    "type": "paper_centric",
+    "positive_score": 0.6959341764450073,
+    "negative_score": 0.5163246989250183,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_577585",
+    "negative_id": "author_587178",
+    "type": "paper_centric",
+    "positive_score": 0.6959341764450073,
+    "negative_score": 0.47901836037635803,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_577585",
+    "negative_id": "author_399739",
+    "type": "paper_centric",
+    "positive_score": 0.6959341764450073,
+    "negative_score": 0.4882811903953552,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_238246",
+    "negative_id": "author_587178",
+    "type": "paper_centric",
+    "positive_score": 0.5163246989250183,
+    "negative_score": 0.47901836037635803,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_238246",
+    "negative_id": "author_399739",
+    "type": "paper_centric",
+    "positive_score": 0.5163246989250183,
+    "negative_score": 0.4882811903953552,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100136",
+    "positive_id": "author_587178",
+    "negative_id": "author_399739",
+    "type": "paper_centric",
+    "positive_score": 0.47901836037635803,
+    "negative_score": 0.4882811903953552,
+    "positive_ref_score": 2,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100137",
+    "positive_id": "author_644486",
+    "negative_id": "author_406585",
+    "type": "paper_centric",
+    "positive_score": 0.7635884284973145,
+    "negative_score": 0.6070728302001953,
+    "positive_ref_score": 5,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100138",
+    "positive_id": "author_547250",
+    "negative_id": "author_221461",
+    "type": "paper_centric",
+    "positive_score": 0.6413851380348206,
+    "negative_score": 0.6088244915008545,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100139",
+    "positive_id": "author_697410",
+    "negative_id": "author_663010",
+    "type": "paper_centric",
+    "positive_score": 0.6564564108848572,
+    "negative_score": 0.6917097568511963,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100140",
+    "positive_id": "author_232971",
+    "negative_id": "author_413918",
+    "type": "paper_centric",
+    "positive_score": 0.5546709299087524,
+    "negative_score": 0.5466886758804321,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100141",
+    "positive_id": "author_416749",
+    "negative_id": "author_263095",
+    "type": "paper_centric",
+    "positive_score": 0.676899790763855,
+    "negative_score": 0.5941969156265259,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100142",
+    "positive_id": "author_468395",
+    "negative_id": "author_607967",
+    "type": "paper_centric",
+    "positive_score": 0.4297276735305786,
+    "negative_score": 0.61793053150177,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100142",
+    "positive_id": "author_468395",
+    "negative_id": "author_485881",
+    "type": "paper_centric",
+    "positive_score": 0.4297276735305786,
+    "negative_score": 0.5757942199707031,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100143",
+    "positive_id": "author_589312",
+    "negative_id": "author_487121",
+    "type": "paper_centric",
+    "positive_score": 0.6917792558670044,
+    "negative_score": 0.502223551273346,
+    "positive_ref_score": 5,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100144",
+    "positive_id": "author_422042",
+    "negative_id": "author_453486",
+    "type": "paper_centric",
+    "positive_score": 0.6536534428596497,
+    "negative_score": 0.4694175124168396,
+    "positive_ref_score": 4,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100145",
+    "positive_id": "author_628400",
+    "negative_id": "author_440455",
+    "type": "paper_centric",
+    "positive_score": 0.5890309810638428,
+    "negative_score": 0.465696781873703,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100146",
+    "positive_id": "author_422042",
+    "negative_id": "author_666550",
+    "type": "paper_centric",
+    "positive_score": 0.6738787293434143,
+    "negative_score": 0.506943941116333,
+    "positive_ref_score": 4,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100147",
+    "positive_id": "author_542466",
+    "negative_id": "author_563837",
+    "type": "paper_centric",
+    "positive_score": 0.6353873014450073,
+    "negative_score": 0.5372097492218018,
+    "positive_ref_score": 5,
+    "negative_ref_score": 3
+  },
+  {
+    "anchor_id": "paper_100148",
+    "positive_id": "author_624515",
+    "negative_id": "author_676765",
+    "type": "paper_centric",
+    "positive_score": 0.496854305267334,
+    "negative_score": 0.5257324576377869,
+    "positive_ref_score": 3,
+    "negative_ref_score": 2
+  },
+  {
+    "anchor_id": "paper_100149",
+    "positive_id": "author_589312",
+    "negative_id": "author_406401",
+    "type": "paper_centric",
+    "positive_score": 0.4808133840560913,
+    "negative_score": 0.4508351683616638,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  },
+  {
+    "anchor_id": "paper_100149",
+    "positive_id": "author_656881",
+    "negative_id": "author_406401",
+    "type": "paper_centric",
+    "positive_score": 0.4654162526130676,
+    "negative_score": 0.4508351683616638,
+    "positive_ref_score": 3,
+    "negative_ref_score": 1
+  }
+]
