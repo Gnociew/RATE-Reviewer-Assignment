@@ -19,7 +19,7 @@ This repository contains the reproduction scripts and documentation for the RATE
 ├── data/                   # Evaluation datasets
 │   ├── evaluations_pc.json # Paper-Centric evaluation data
 │   ├── evaluations_rc.json # Reviewer-Centric evaluation data
-│   └── keywords.json       # Keyword mapping file
+│   └── keywords.json       # Keyword file
 └── predictions/            # Generated prediction files
 ```
 
@@ -48,7 +48,7 @@ We will provide two model checkpoints on Hugging Face:
 - **RATE-8B**: [Hugging Face Link](https://huggingface.co/) (Coming Soon)
 
 ```bash
-python main.py --config configs/example_config.yaml
+python main.py --config configs/example_config.yaml --base_model_path /path/to/your/model_checkpoint
 ```
 
 This will:
