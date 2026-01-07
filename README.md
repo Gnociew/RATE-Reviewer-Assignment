@@ -1,4 +1,4 @@
-# RATE: Reviewer Assignment with Text Embeddings (Reproduction)
+# RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems
 
 This repository contains the reproduction scripts and documentation for the RATE experiment, utilizing a **Qwen3-Embedding-8B** base model with a specialized LoRA adapter.
 
