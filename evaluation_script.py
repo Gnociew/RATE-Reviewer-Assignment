@@ -3,15 +3,16 @@ import json
 import os
 from glob import glob
 import numpy as np
+from typing import List, Dict, Set, Tuple
 
 
 def compute_pairwise_weighted_kendall_loss(
-    examples: list[dict],
+    examples: List[Dict],
     positive_key: str = "positive",
     negative_key: str = "negative",
     pred_field: str = "pred_score",
     ref_field: str = "score",
-) -> dict:
+) -> Dict:
     max_loss = 0.0
     loss = 0.0
     used = 0
@@ -52,12 +53,12 @@ def compute_pairwise_weighted_kendall_loss(
 
 
 def compute_pairwise_accuracy(
-    examples: list[dict],
+    examples: List[Dict],
     positive_key: str = "positive",
     negative_key: str = "negative",
     pred_field: str = "pred_score",
     ref_field: str = "score",
-) -> dict:
+) -> Dict:
     correct = 0
     total = 0
     skipped = 0
@@ -118,11 +119,11 @@ def _format_loss(v) -> str:
     return f"{f:.4f}"
 
 
-def _discover_predictions(prediction_dir: str, algo: str) -> dict[str, dict[str, str]]:
+def _discover_predictions(prediction_dir: str, algo: str) -> Dict[str, Dict[str, str]]:
     prediction_dir = os.path.abspath(prediction_dir)
     files = glob(os.path.join(prediction_dir, f"{algo}_*.json"))
 
-    by_split: dict[str, dict[str, str]] = {"pc": {}, "rc": {}}
+    by_split: Dict[str, Dict[str, str]] = {"pc": {}, "rc": {}}
     for path in sorted(files):
         base = os.path.basename(path)
         if not base.startswith(f"{algo}_") or not base.endswith(".json"):
@@ -160,7 +161,7 @@ def _discover_predictions(prediction_dir: str, algo: str) -> dict[str, dict[str,
     return by_split
 
 
-def _sorted_strategies(strategies: set[str]) -> list[str]:
+def _sorted_strategies(strategies: Set[str]) -> List[str]:
     if not strategies:
         return []
     others = sorted([s for s in strategies if s != "default"])
@@ -189,7 +190,7 @@ def parse_args(argv=None):
     return parser.parse_args(argv)
 
 
-def _eval_one_file(path: str, pred_field: str, ref_field: str) -> tuple[str, dict, dict]:
+def _eval_one_file(path: str, pred_field: str, ref_field: str) -> Tuple[str, Dict, Dict]:
     data = _load_json(path)
     if not isinstance(data, list):
         raise ValueError(f"Prediction file must be a JSON list: {path}")

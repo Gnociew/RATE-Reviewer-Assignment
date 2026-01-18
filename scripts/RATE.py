@@ -44,7 +44,7 @@ def load_keywords_map(keywords_file):
         print(f"Warning: Keywords file {keywords_file} not found. Returning empty map.")
         return kw_map
         
-    with open(keywords_file, 'r') as f:
+    with open(keywords_file, 'r', encoding='utf-8') as f:
         try:
             data = json.load(f)
             if isinstance(data, list):

@@ -5,21 +5,23 @@ This repository contains the reproduction code for RATE, including inference scr
 ## Project Structure
 
 ```
-├── configs/                 # Configuration files
-│   └── example_config.yaml  # Example config for one-click reproduction
-├── data/                    # Evaluation datasets and keyword map
-│   ├── evaluations_pc.json  # Paper-Centric evaluation data
-│   ├── evaluations_rc.json  # Reviewer-Centric evaluation data
-│   └── keywords.json        # Paper keywords file
-├── predictions/             # Generated prediction files (outputs)
-├── scripts/                 # Core logic
-│   └── RATE.py              # Similarity calculation logic
-├── train/                   # Training code 
-│   └── training.py          # Original training code
-├── evaluation_script.py     # Evaluation metrics (loss / accuracy)
-├── main.py                  # Main entry point for reproduction
-├── requirements.txt         # Python dependencies
-└── README.md                # This file
+.
+├── README.md               # This documentation
+├── download_model.py       # Script to download model checkpoints
+├── main.py                 # Main entry point for reproduction
+├── scripts/                # Core logic scripts
+│   └── RATE.py             # Similarity calculation logic
+├── train/                  # Training scripts
+│   └── training.py         # Original training code
+├── evaluation_script.py    # Evaluation metrics calculation
+├── requirements.txt        # Python dependencies
+├── configs/                # Configuration files
+│   └── example_config.yaml # Example configuration
+├── data/                   # Datasets
+│   ├── evaluations_pc.json # Paper-Centric evaluation data
+│   ├── evaluations_rc.json # Reviewer-Centric evaluation data
+│   └── keywords.json       # Keyword file
+└── predictions/            # Generated prediction files
 ```
 
 ## Usage
@@ -47,67 +49,43 @@ We provide two model checkpoints on Hugging Face:
 - **RATE-0.6B**: [Hugging Face Link](https://huggingface.co/Gnociew/RATE-0.6B) 
 - **RATE-8B**: [Hugging Face Link](https://huggingface.co/Gnociew/RATE-8B)
 
-Download one checkpoint to a local folder, then pass its local path via `--base_model_path`. This repo loads checkpoints from local directories.
 
-Example (expected local layout):
+We provide a helper script to download the model checkpoints from Hugging Face. **We highly recommend using the RATE-8B model** as it achieves significantly better performance.
 
-```
-checkpoint/
-└── RATE_8B/    # put the downloaded model files here
-```
+To download the recommended 8B model:
 
-Then run with:
-
-```
-python main.py --config configs/example_config.yaml --base_model_path checkpoint/RATE_8B
+```bash
+python download_model.py --model_size 8B
 ```
 
+To download the 0.6B model:
 
-### Prepare Data
+```bash
+python download_model.py --model_size 0.6B
+```
 
-The default evaluation data files are already included in `./data/`:
-
-- `data/evaluations_pc.json`: paper-centric evaluation pairs
-- `data/evaluations_rc.json`: reviewer-centric evaluation pairs
-- `data/keywords.json`: keyword mapping used to build reviewer profiling 
-
-If you want to use your own data, make sure each JSON file is a list of examples with `anchor`, `positive`, `negative`, and compatible fields. The script will automatically detect whether the dataset is paper-centric or reviewer-centric.
+The models will be saved in the `checkpoint/` directory by default.
 
 ### Reproduction
 
 We provide a `main.py` script that orchestrates the reproduction process. It uses `scripts/RATE.py` for inference and `evaluation_script.py` for metrics calculation.
 
-**Option 1: One-click run (recommended)**
+**Option 1: Run with Config File**
 
-```
+We have prepared a configuration file for one-click execution.
+
+```bash
 python main.py --config configs/example_config.yaml --base_model_path checkpoint/RATE_8B
 ```
 
 This will:
-1. Generate prediction files under `predictions/` (e.g., `predictions/RATE_pc.json` and `predictions/RATE_rc.json`).
-2. Run evaluation and print pairwise loss / accuracy.
-
-**Option 2: Override paths via CLI**
-
-```
-python main.py \
-  --base_model_path checkpoint/RATE_8B \
-  --keywords_file data/keywords.json \
-  --data_path data/evaluations_pc.json data/evaluations_rc.json \
-  --output_path predictions \
-  --device auto
-```
-
-If you only want to generate predictions (skip evaluation):
-
-```
-python main.py --config configs/example_config.yaml --base_model_path checkpoint/RATE_8B --skip_eval
-```
+1.  Generate `predictions/RATE_pc.json` and `predictions/RATE_rc.json`.
+2.  Automatically run evaluation and print the Accuracy and Loss metrics.
 
 ### Evaluation
 
 If you want to run evaluation separately on existing prediction files:
 
-```
+```bash
 python evaluation_script.py --pred_paths predictions/RATE_pc.json predictions/RATE_rc.json
 ```
